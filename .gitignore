@@ -4,3 +4,6 @@ lib/
 lib64/
 lib64
 pyvenv.cfg
+*.pyc
+*.sqlite3
+migrations/
