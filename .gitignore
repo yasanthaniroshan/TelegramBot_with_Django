@@ -7,3 +7,4 @@ pyvenv.cfg
 *.pyc
 *.sqlite3
 migrations/
+.env
