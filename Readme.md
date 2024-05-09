@@ -1,4 +1,10 @@
 # Telegram Bot with Django
+![Telegram Bot with Django](Assets/poster.png)
+![Django](https://img.shields.io/badge/Django-5.0.4-green)
+![Python](https://img.shields.io/badge/Python-3.9.6-blue)
+![Telegram](https://img.shields.io/badge/Telegram-Bot-blue)
+![License](https://img.shields.io/badge/License-MIT-red)
+
 
 ## Introduction
 
