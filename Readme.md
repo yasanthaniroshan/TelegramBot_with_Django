@@ -2,6 +2,18 @@
 
 This project is a Telegram bot built using Django framework. The bot has several features of DjangoORM integrated with Telegram API.
 
+## Introduction
+
+The Telegram bot implemented in this project allows users to interact with a Django backend through the Telegram messaging platform. It provides features such as user registration, data retrieval, and other custom commands tailored to specific use cases. The bot leverages Django's powerful ORM capabilities to manage user data and respond to user queries in real-time.
+
+## Features
+
+- **Automation**: The Telegram bot automates tasks and processes, reducing manual intervention and streamlining operations.
+- **Information Retrieval**: Users can query the bot for information stored in the Django backend, making it a convenient interface for accessing data.
+- **User Engagement**: The bot enhances user engagement by providing a conversational interface for interacting with the Django application.
+- **Scalability**: Built on Django, the project is scalable and can handle increasing user interactions and data volume efficiently.
+
+
 ## Installation
 
 1. Clone the repository : 
@@ -20,7 +32,7 @@ This project is a Telegram bot built using Django framework. The bot has several
 4. Populate the database with the initial data.
     ```bash
     cd django_telegram_bot
-    python manage.py makeinitialmigrations
+    python manage.py makemigrations
     python manage.py migrate
     ```
 5. Start bot by running bot.py file.
